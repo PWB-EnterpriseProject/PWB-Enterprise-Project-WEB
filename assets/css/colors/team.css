@@ -1,0 +1,13 @@
+
+.row text-center team-list {
+    justify-content: center;
+}
+
+.col-sm-3 {
+    justify-content: center;
+}
+
+.team-member {
+    justify-content: center;
+    padding-left: 50px ;
+}
